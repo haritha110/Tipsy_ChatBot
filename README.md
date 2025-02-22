@@ -24,7 +24,7 @@ The Tipsy Chatbot is designed to automate the processing of customer support tic
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/your-username/tipsy-chatbot.git](https://www.google.com/search?q=https://github.com/your-username/tipsy-chatbot.git)  # Replace with your repo URL
+   git clone [https://github.com/haritha110/Tipsy_ChatBot.git]
    cd tipsy-chatbot
 
 2. Create a virtual environment (recommended):
