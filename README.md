@@ -13,8 +13,7 @@ This repository contains the code for a customer support ticket processing syste
 - [Project Structure](#project-structure)
 - [Dependencies](#dependencies)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
